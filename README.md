@@ -13,3 +13,5 @@ Update: I think whoever messed up my image took every column of pixels and put t
 1. divide by width tip
 2. flip
 3. rotate
+
+![image](https://upload.cc/i1/2022/07/15/odM3xD.jpg)
